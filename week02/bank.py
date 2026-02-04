@@ -1,5 +1,5 @@
 # bank.py
-# program will print out sum of two amounts 
+# program will print out sum of two amounts (cents) into final sum (Euros)
 # Author: John Crumlish
 
 # Prompts user to add their amounts
